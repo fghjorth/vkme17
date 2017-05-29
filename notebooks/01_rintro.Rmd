@@ -1,0 +1,29 @@
+---
+title: '01: Intro til R'
+author: "Frederik Hjorth"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+Den enkleste operation vi kan foretage i R er at tildele en værdi -- fx. et tal -- til et objekt:
+
+```{r}
+x<-5
+```
+
+Hvis du har notebooken åben i RStudio kan du eksekvere koden ovenfor ved at placere cursoren i feltet og trykke *Ctrl+Shift+Enter*.
+
+Her har vi kaldt objektet `x`, og tildelt det værdien `5`. 
+
+Bemærk at vi herefter kan lade objektet indgå i nye operationer:
+
+```{r}
+3 + x
+```
+
+Prøv selv at tildele et objekt en værdi her:
+
+```{r}
+mitobjekt<-
+```
