@@ -155,12 +155,12 @@ Selvbetjeningen på KUnet.
 
 # Eksamen
 
-Point             7,5 ECTS
------------------ --------------------------
-Prøveform         Skriftlig aflevering
-                  Individuel seminaropgave
-Bedømmelsesform   7-trins skala
-Censurform        Ingen ekstern censur
+Point | 7,5 ECTS
+-----------------|--------------------------
+Prøveform         | Skriftlig aflevering
+                  | Individuel seminaropgave
+Bedømmelsesform   | 7-trins skala
+Censurform        | Ingen ekstern censur
 
 # Kriterier for bedømmelse
 
@@ -172,7 +172,7 @@ Karakter | Betegnelse | Beskrivelse
 
 # Arbejdsbelastning
 
-Kategori             Timer
------------------- -------
-Holdundervisning        28
-I alt                   28
+Kategori           |  Timer
+------------------ |-------
+Holdundervisning   |     28
+I alt              |     28
