@@ -7,7 +7,7 @@ Engelsk: *Advanced quantitative methods in the study of political behavior*
 
 # Underviser
 
-Faget undervises af Frederik Hjorth, Ph.D., postdoc ved IfS.
+Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., postdoc ved IfS.
 
 # Kursusindhold
 
@@ -142,8 +142,6 @@ Læringsmål (ILO's) | Undervisnings- og læringsaktiviteter (TLA's) | Bedømmel
 *Bearbejde* data i strukturerede og ustrukturerede formater | Løbende hjemmeøvelser i R notebooks | Feedback ifm. midterm
 *Analysere* empiriske politologiske problemstillinger | Øvelsesopgave (midterm) | Karakter ifm. seminaropgave
 *Reflektere* over fordele og ulemper ved forskellige designs | |
-
-: Oversigt over ILO's, TLA's og AT's.
 
 # Anbefalede faglige forudsætninger
 
