@@ -7,7 +7,7 @@ Engelsk: *Advanced quantitative methods in the study of political behavior*
 
 # Underviser
 
-Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., postdoc ved IfS.
+Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., postdoc ved [IfS](hrrp://polsci.ku.dk).
 
 # Kursusindhold
 
