@@ -1,15 +1,15 @@
 
-# Titel
+## Titel
 
 Dansk: *Videregående kvantitative metoder i studiet af politisk adfærd*
 
 Engelsk: *Advanced quantitative methods in the study of political behavior*
 
-# Underviser
+## Underviser
 
 Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., postdoc ved [IfS](hrrp://polsci.ku.dk).
 
-# Kursusindhold
+## Kursusindhold
 
 Seminaret er en obligatorisk del af specialiseringen *Politisk Adfærd og anvendt videregående kvantitative metode*.
 
@@ -39,7 +39,11 @@ Gang | Tema | Litteratur | Case
 13 | Scraping af data fra online-kilder | MRMN kap 9+14 |
 14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Hjorth et al. (2015)
 
-# Målbeskrivelser
+## Tid og sted
+
+Undervisningen finder sted **onsdage 8-10** i lokale **2.0.24**. Første undervisningsgang er onsdag d. 6. september.
+
+## Målbeskrivelser
 
 Seminarets målsætning er at sætte den studerende i stand til efter endt undervisning at kunne (ILO's):
 
@@ -48,15 +52,15 @@ Seminarets målsætning er at sætte den studerende i stand til efter endt under
 1. *Analysere* empiriske politologiske problemstillinger med udgangspunkt i kvantitative data.
 1. *Reflektere* over fordele og ulemper ved forskellige designs og teknikker fra kursets pensum og samt i andres og eget arbejde.
 
-# Kompetencebeskrivelse
+## Kompetencebeskrivelse
 
 Faget giver en bedre forståelse af politisk adfærd og politiske processer: Mange politiske tiltag har som formål at påvirke borgernes adfærd og i den sammenhæng bidrager den politiske adfærdsforskning med en forståelse af, hvilke konsekvenser den førte politik kan forventes at have for menneskers adfærd. Som eksempel kan nævnes betydningen af politiske kampagner, anvendelse af performance mål i den offentlige sektor. Her kan den politiske adfærdsforskning bidrage med viden om, hvordan befolkningen reagerer på information og dermed udgøre et oplyst grundlag at føre politik på.
 
 Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udføre, tolke og præsentere undersøgelser med udgangspunkt i de forskningsdesigns og metoder, der fremgår af pensum, og at denne anvendelse sker i sammenhæng med teorier om politisk adfærd.
 
-# Undervisningsmateriale
+## Undervisningsmateriale
 
-## Bøger
+### Bøger
 
 - GH: Gelman, A., & Hill, J. (2006). *Data analysis using regression and multilevel/hierarchical models*. Cambridge University Press.
 
@@ -68,7 +72,7 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - MRMN: Munzert, S., Rubba, C., Meißner, P., & Nyhuis, D. (2014). *Automated data collection with R: A practical guide to web scraping and text mining*. John Wiley & Sons.
 
-## Artikler
+### Artikler
 
 - Athey, S., & Imbens, G. (2016). The State of Applied Econometrics-Causality and Policy Evaluation. *arXiv preprint* arXiv:1607.00699.
 
@@ -88,7 +92,7 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Varian, H. R. (2014). Big data: New tricks for econometrics. *The Journal of Economic Perspectives*, 28(2), 3-27.
 
-## Cases
+### Cases
 
 - Arunachalam, R., & Watson, S. (2016). Height, Income and Voting. *British Journal of Political Science*, 46(03), 1–20.
 
@@ -114,13 +118,13 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 
-## Supplerende læsning
+### Supplerende læsning
 
 - Kleinberg, J., Ludwig, J., Mullainathan, S. (2016). [A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning). *Harvard Business Review*.
 
 - Stegmueller, D. (2013). How many countries for multilevel modeling? A comparison of frequentist and Bayesian approaches. *American Journal of Political Science*, 57(3), 748-761.
 
-# Undervisningsform
+## Undervisningsform
 
 Undervisnings- og læringsaktiviteter (TLAs):
 
@@ -143,21 +147,21 @@ Læringsmål (ILO's) | Undervisnings- og læringsaktiviteter (TLA's) | Bedømmel
 *Analysere* empiriske politologiske problemstillinger | Øvelsesopgave (midterm) | Karakter ifm. seminaropgave
 *Reflektere* over fordele og ulemper ved forskellige designs | |
 
-# Anbefalede faglige forudsætninger
+## Anbefalede faglige forudsætninger
 
 Det forudsættes at man har gennemført Metode 2, Almen Statskundskab og Sammenlignede Statskundskab eller tilsvarende.
 
-# Tilmelding
+## Tilmelding
 
 Selvbetjeningen på KUnet.
 
-# Eksamen
+## Eksamen
 
 Faget udgør 7,5 ECTS.
 
 Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. Den endelige seminaropgave bedømmes med en karakter på syvtrinsskalaen uden ekstern censur.
 
-# Kriterier for bedømmelse
+## Kriterier for bedømmelse
 
 Karakter | Betegnelse | Beskrivelse
 -----|-------------|------------------------------------------
@@ -165,7 +169,7 @@ Karakter | Betegnelse | Beskrivelse
 7 | Den gode præstation, der demonstrerer opfyldelse af fagets mål med en del mangler. | **Viden**: overordnet viden om fagets metoder og metodiske begreber. **Færdigheder**: anvende fagets statistiske metoder og begreber med nogen grad af selvstændig refleksion.	**Kompetencer**: gennemføre analyser af kvantitative data med nogen systematik og stringens.
 02 | Den tilstrækkelige præstation, der demonstrerer den minimalt acceptable grad af opfyldelse af fagets mål.   | **Viden**: ringe viden om fagets metoder og metodiske begreber. **Færdigheder**: anvende fagets statistiske metoder og begreber med ringe grad af selvstændig refleksion.	**Kompetencer**: gennemføre analyser af kvantitative data med begrænset systematik og stringens.
 
-# Arbejdsbelastning
+## Arbejdsbelastning
 
 Kategori           |  Timer
 ------------------ |-------
