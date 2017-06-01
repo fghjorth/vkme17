@@ -28,7 +28,7 @@ Gang | Tema | Litteratur | Case
 3  | Regression II: Paneldata | GH kap 11 | Larsen et al. (2016)
 4  | Regression III: Multileveldata, interaktioner | GH kap 12 | Berkman & Plutzer (2011)
 5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) |
-6  | Matching | Justesen & Klemmensen (2014) | Ladd & Lenz (2009)
+6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
    | *Efterårsferie* | |
 7  | Eksperimenter I | MM kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
 8  | Eksperimenter II | GG kap 3+4+5 | Gerber & Green (2000)
@@ -114,13 +114,15 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Hjorth, F., Klemmensen, R., Hobolt, S., Hansen, M. E., & Kurrild-Klitgaard, P. (2015). Computers, coders, and voters: Comparing automated methods for estimating party positions. *Research & Politics*, 2(2).
 
-- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
+- Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 
 ### Supplerende læsning
 
 - Kleinberg, J., Ludwig, J., Mullainathan, S. (2016). [A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning). *Harvard Business Review*.
+
+- Ladd, J. M., & Lenz, G. S. (2009). Exploiting a rare communication shift to document the persuasive power of the news media. *American Journal of Political Science*, 53(2), 394-410.
 
 - Stegmueller, D. (2013). How many countries for multilevel modeling? A comparison of frequentist and Bayesian approaches. *American Journal of Political Science*, 57(3), 748-761.
 
