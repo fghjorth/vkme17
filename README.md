@@ -23,10 +23,10 @@ Tredje blok, **Politologisk data science** (gang 12-14), introducerer til hvorda
 
 Gang | Tema | Litteratur | Case
 -|----------------------------|---------------|------------
-1  | Introduktion til R | Imai kap 1 |
-2  | Regression I: OLS | GH kap 3, MM kap 2 | Gilens & Page (2014)
-3  | Regression II: Paneldata | GH kap 11 | Larsen et al. (2016)
-4  | Regression III: Multileveldata, interaktioner | GH kap 12 | Berkman & Plutzer (2011)
+1  | Introduktion til R | Imai kap 1, Leeper (2016) |
+2  | R workshop + tidy data | Wickham (2014), Zhang (2017) |
+3  | Regression I: OLS brush-up | MM kap 2 | Gilens & Page (2014)
+4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2016)
 5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) |
 6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
    | *Efterårsferie* | |
@@ -38,6 +38,8 @@ Gang | Tema | Litteratur | Case
 12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) |
 13 | Scraping af data fra online-kilder | MRMN kap 9+14 |
 14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Hjorth et al. (2015)
+
+<!-- 4  | Regression III: Multileveldata, interaktioner | GH kap 12 | Berkman & Plutzer (2011) -->
 
 ## Tid og sted
 
@@ -62,11 +64,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 ### Bøger
 
-- GH: Gelman, A., & Hill, J. (2006). *Data analysis using regression and multilevel/hierarchical models*. Cambridge University Press.
+- AGS: Andreß, H. J., Golsch, K., & Schmidt, A. W. (2013). *Applied panel data analysis for economic and social surveys*. Springer Science & Business Media.
 
 - GG: Gerber, A. S., & Green, D. P. (2012). *Field experiments: Design, analysis, and interpretation*. WW Norton.
-
-- Imai: Imai, K. (2016): *A First Course in Quantitative Social Science*. Unpublished manuscript.
 
 - MM: Angrist, J. D., & Pischke, J. S. (2014). *Mastering 'metrics: The path from cause to effect*. Princeton University Press.
 
@@ -88,9 +88,13 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Justesen, M. K., & Klemmensen, R. (2014). Sammenligning af sammenlignelige observationer. *Politica*, 46(1), 60-78.
 
+- Leeper, T. (2016). [Really Introductory Introduction to R](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf).
+
 - Samii, C. (2016). Causal empiricism in quantitative research. *Journal of Politics* 78(3): 941–955.
 
 - Varian, H. R. (2014). Big data: New tricks for econometrics. *The Journal of Economic Perspectives*, 28(2), 3-27.
+
+- Zhang, C. (2017). [Tricks for cleaning your data in R](https://github.com/underthecurve/r-data-cleaning-tricks/raw/master/R-datacleaning-tricks.pdf).
 
 ### Cases
 
@@ -118,7 +122,13 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 
+- Wickham, H. (2014). Tidy data. *Journal of Statistical Software*, 59(10), 1-23.
+
 ### Supplerende læsning
+
+- Gelman, A., & Hill, J. (2006). *Data analysis using regression and multilevel/hierarchical models*. Cambridge University Press.
+
+- Imai, K. (2017): *Quantitative Social Science: An Introduction*. Princeton University Press.
 
 - Kleinberg, J., Ludwig, J., Mullainathan, S. (2016). [A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning). *Harvard Business Review*.
 
