@@ -25,7 +25,7 @@ Gang | Tema | Litteratur | Case
 -|----------------------------|---------------|------------
 1  | Introduktion til R | Imai kap 1, Leeper (2016) |
 2  | R workshop + tidy data | Wickham (2014), Zhang (2017) |
-3  | Regression I: OLS brush-up | MM kap 2 | Gilens & Page (2014)
+3  | Regression I: OLS brush-up | MM kap 2 | Newman et al. (2015), Solt et al. (2017)
 4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2016)
 5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) |
 6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
@@ -120,7 +120,11 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
+- Newman, B. J., Johnston, C. D., & Lown, P. L. (2015). False consciousness or class awareness? Local income inequality, personal economic position, and belief in American meritocracy. *American Journal of Political Science*, 59(2), 326-340.
+
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
+
+- Solt, F., Hu, Y., Hudson, K., Song, J., & Yu, D. E. (2017). Economic inequality and class consciousness. *The Journal of Politics*, 79(3).
 
 - Wickham, H. (2014). Tidy data. *Journal of Statistical Software*, 59(10), 1-23.
 
