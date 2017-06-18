@@ -35,9 +35,9 @@ Gang | Tema | Litteratur | Case
 9  | Instrumentvariable | MM kap 3 | Arunachalam & Watson (2016)
 10 | Regressionsdiskontinuitetsdesigns | MM kap 4 | Eggers & Hainmueller (2009)
 11 | Difference-in-differences | MM kap 5 | Enos (2016)
-12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) |
-13 | Scraping af data fra online-kilder | MRMN kap 9+14 |
-14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Hjorth et al. (2015)
+12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) | Theocharis et al. (2016)
+13 | Scraping af data fra online-kilder | MRMN kap 9+14 | Hjorth (2016)
+14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Baturo & Mikhaylov (2013)
 
 <!-- 4  | Regression III: Multileveldata, interaktioner | GH kap 12 | Berkman & Plutzer (2011) -->
 
@@ -100,7 +100,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Arunachalam, R., & Watson, S. (2016). Height, Income and Voting. *British Journal of Political Science*, 46(03), 1–20.
 
-- Berkman, M. B., & Plutzer, E. (2011). Defeating creationism in the courtroom, but not in the classroom. *Science*, 331(6016), 404-405.
+- Baturo, A., & Mikhaylov, S. (2013). Life of Brian revisited: Assessing informational and non-informational leadership tools. *Political Science Research and Methods*, 1(01), 139-157.
+
+<!-- - Berkman, M. B., & Plutzer, E. (2011). Defeating creationism in the courtroom, but not in the classroom. *Science*, 331(6016), 404-405. -->
 
 <!-- Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D., Marlow, C., Settle, J. E., & Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature*, 489(7415), 295-298. -->
 
@@ -116,7 +118,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Gerber, A. S., Green, D. P., & Larimer, C. W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. *American Political Science Review*, 102(01), 33-48.
 
-- Hjorth, F., Klemmensen, R., Hobolt, S., Hansen, M. E., & Kurrild-Klitgaard, P. (2015). Computers, coders, and voters: Comparing automated methods for estimating party positions. *Research & Politics*, 2(2).
+<!-- - Hjorth, F., Klemmensen, R., Hobolt, S., Hansen, M. E., & Kurrild-Klitgaard, P. (2015). Computers, coders, and voters: Comparing automated methods for estimating party positions. *Research & Politics*, 2(2). -->
+
+- Hjorth, F. (2016). Intergroup Bias in Parliamentary Rule Enforcement. *Political Research Quarterly*, 69(4), 692-702.
 
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
@@ -125,6 +129,8 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 
 - Solt, F., Hu, Y., Hudson, K., Song, J., & Yu, D. E. (2017). Economic inequality and class consciousness. *The Journal of Politics*, 79(3).
+
+- Theocharis, Y., Barbera, P., Fazekas, Z., & Popa, S. A. (2016). A Bad Workman Blames His Tweets? The Consequences of Citizens’ Uncivil Twitter Use When Interacting with Party Candidates. *Journal of Communication*, 66, 1007-1031.
 
 - Wickham, H. (2014). Tidy data. *Journal of Statistical Software*, 59(10), 1-23.
 
