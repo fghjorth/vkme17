@@ -175,7 +175,7 @@ Selvbetjeningen på KUnet.
 
 Faget udgør 7,5 ECTS.
 
-Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. Den endelige seminaropgave bedømmes med en karakter på syvtrinsskalaen uden ekstern censur.
+Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. Den endelige seminaropgave bedømmes med en karakter på syvtrinsskalaen uden ekstern censur :cold_sweat:.
 
 ## Kriterier for bedømmelse
 
