@@ -25,16 +25,16 @@ Gang | Tema | Litteratur | Case
 -|----------------------------|---------------|------------
 1  | Introduktion til R | Imai kap 1, Leeper (2016) |
 2  | R workshop + tidy data | Wickham (2014), Zhang (2017) |
-3  | Regression I: OLS brush-up | MM kap 2 | Newman et al. (2015), Solt et al. (2017)
+3  | Regression I: OLS brush-up | AP kap 3 | Newman et al. (2015), Solt et al. (2017)
 4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2016)
 5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) |
 6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
    | *Efterårsferie* | |
-7  | Eksperimenter I | MM kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
+7  | Eksperimenter I | AP kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
 8  | Eksperimenter II | GG kap 3+4+5 | Gerber & Green (2000)
-9  | Instrumentvariable | MM kap 3 | Lundborg et al. (2017)
-10 | Regressionsdiskontinuitetsdesigns | MM kap 4 | Eggers & Hainmueller (2009)
-11 | Difference-in-differences | MM kap 5 | Enos (2016)
+9  | Instrumentvariable | AP kap 4 | Lundborg et al. (2017)
+10 | Difference-in-differences | AP kap 5 | Enos (2016)
+11 | Regressionsdiskontinuitetsdesigns | AP kap 6 | Eggers & Hainmueller (2009)
 12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) | Theocharis et al. (2016)
 13 | Scraping af data fra online-kilder | MRMN kap 9+14 | Hjorth (2016)
 14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Baturo & Mikhaylov (2013)
@@ -68,7 +68,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - GG: Gerber, A. S., & Green, D. P. (2012). *Field experiments: Design, analysis, and interpretation*. WW Norton.
 
-- MM: Angrist, J. D., & Pischke, J. S. (2014). *Mastering 'metrics: The path from cause to effect*. Princeton University Press.
+<!-- - MM: Angrist, J. D., & Pischke, J. S. (2014). *Mastering 'metrics: The path from cause to effect*. Princeton University Press. -->
+
+- AP: Angrist, J. D., & Pischke, J. S. (2008). *Mostly harmless econometrics: An empiricist's companion*. Princeton university press.
 
 - MRMN: Munzert, S., Rubba, C., Meißner, P., & Nyhuis, D. (2014). *Automated data collection with R: A practical guide to web scraping and text mining*. John Wiley & Sons.
 
