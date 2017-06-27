@@ -32,7 +32,7 @@ Gang | Tema | Litteratur | Case
    | *Efterårsferie* | |
 7  | Eksperimenter I | MM kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
 8  | Eksperimenter II | GG kap 3+4+5 | Gerber & Green (2000)
-9  | Instrumentvariable | MM kap 3 | Arunachalam & Watson (2016)
+9  | Instrumentvariable | MM kap 3 | Lundborg et al. (2017)
 10 | Regressionsdiskontinuitetsdesigns | MM kap 4 | Eggers & Hainmueller (2009)
 11 | Difference-in-differences | MM kap 5 | Enos (2016)
 12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) | Theocharis et al. (2016)
@@ -98,7 +98,7 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 ### Cases
 
-- Arunachalam, R., & Watson, S. (2016). Height, Income and Voting. *British Journal of Political Science*, 46(03), 1–20.
+<!-- - Arunachalam, R., & Watson, S. (2016). Height, Income and Voting. *British Journal of Political Science*, 46(03), 1–20. -->
 
 - Baturo, A., & Mikhaylov, S. (2013). Life of Brian revisited: Assessing informational and non-informational leadership tools. *Political Science Research and Methods*, 1(01), 139-157.
 
@@ -121,6 +121,8 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 <!-- - Hjorth, F., Klemmensen, R., Hobolt, S., Hansen, M. E., & Kurrild-Klitgaard, P. (2015). Computers, coders, and voters: Comparing automated methods for estimating party positions. *Research & Politics*, 2(2). -->
 
 - Hjorth, F. (2016). Intergroup Bias in Parliamentary Rule Enforcement. *Political Research Quarterly*, 69(4), 692-702.
+
+- Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
 
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
