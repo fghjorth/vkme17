@@ -62,35 +62,42 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 ## Undervisningsmateriale
 
+- [B]: Anbefales købt i bogform
+- [K]: Indgår i fagets kompendie
+
 ### Bøger
 
-- AGS: Andreß, H. J., Golsch, K., & Schmidt, A. W. (2013). *Applied panel data analysis for economic and social surveys*. Springer Science & Business Media.
+- [K] AGS: Andreß, H. J., Golsch, K., & Schmidt, A. W. (2013). *Applied panel data analysis for economic and social surveys*. Springer Science & Business Media.
 
-- GG: Gerber, A. S., & Green, D. P. (2012). *Field experiments: Design, analysis, and interpretation*. WW Norton.
+- [B] GG: Gerber, A. S., & Green, D. P. (2012). *Field experiments: Design, analysis, and interpretation*. WW Norton.
 
 <!-- - MM: Angrist, J. D., & Pischke, J. S. (2014). *Mastering 'metrics: The path from cause to effect*. Princeton University Press. -->
 
-- AP: Angrist, J. D., & Pischke, J. S. (2008). *Mostly harmless econometrics: An empiricist's companion*. Princeton university press.
+- [B] AP: Angrist, J. D., & Pischke, J. S. (2008). *Mostly harmless econometrics: An empiricist's companion*. Princeton university press.
 
-- MRMN: Munzert, S., Rubba, C., Meißner, P., & Nyhuis, D. (2014). *Automated data collection with R: A practical guide to web scraping and text mining*. John Wiley & Sons.
+- [K] MRMN: Munzert, S., Rubba, C., Meißner, P., & Nyhuis, D. (2014). *Automated data collection with R: A practical guide to web scraping and text mining*. John Wiley & Sons.
 
 ### Artikler
 
 - Benoit, K., & Nulty, P. (2016) [Getting Started with quanteda](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html)
 
-- Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. *Political Analysis*, 21(3), 267-297.
+- [K] Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. *Political Analysis*, 21(3), 267-297.
 
-- Hariri, J. G. (2012). Kausal inferens i statskundskaben. *Politica*, 44(2), 184-201.
+- [K] Hariri, J. G. (2012). Kausal inferens i statskundskaben. *Politica*, 44(2), 184-201.
 
-- Justesen, M. K., & Klemmensen, R. (2014). Sammenligning af sammenlignelige observationer. *Politica*, 46(1), 60-78.
+- [K] Justesen, M. K., & Klemmensen, R. (2014). Sammenligning af sammenlignelige observationer. *Politica*, 46(1), 60-78.
 
-- Leeper, T. (2016). [Really Introductory Introduction to R](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf).
+- [K] Leeper, T. (2016). [Really Introductory Introduction to R](https://github.com/leeper/Rcourse/raw/gh-pages/Intro2R/Intro2R.pdf).
 
-- Samii, C. (2016). Causal empiricism in quantitative research. *Journal of Politics* 78(3): 941–955.
+- [K] Montgomery, J. M., & Olivella, S. (2017). Tree-based models for political science data. *American Journal of Political Science*, forthcoming.
 
-- Varian, H. R. (2014). Big data: New tricks for econometrics. *The Journal of Economic Perspectives*, 28(2), 3-27.
+- [K] Samii, C. (2016). Causal empiricism in quantitative research. *Journal of Politics* 78(3): 941–955.
 
-- Zhang, C. (2017). [Tricks for cleaning your data in R](https://github.com/underthecurve/r-data-cleaning-tricks/raw/master/R-datacleaning-tricks.pdf).
+- [K] Varian, H. R. (2014). Big data: New tricks for econometrics. *The Journal of Economic Perspectives*, 28(2), 3-27.
+
+- [K] Wickham, H. (2014). Tidy data. *Journal of Statistical Software*, 59(10), 1-23.
+
+- [K] Zhang, C. (2017). [Tricks for cleaning your data in R](https://github.com/underthecurve/r-data-cleaning-tricks/raw/master/R-datacleaning-tricks.pdf).
 
 ### Cases
 
@@ -120,8 +127,6 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
 
-- Montgomery, J. M., & Olivella, S. (2017). Tree-based models for political science data. *American Journal of Political Science*, forthcoming.
-
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
 - Newman, B. J., Johnston, C. D., & Lown, P. L. (2015). False consciousness or class awareness? Local income inequality, personal economic position, and belief in American meritocracy. *American Journal of Political Science*, 59(2), 326-340.
@@ -131,8 +136,6 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 - Solt, F., Hu, Y., Hudson, K., Song, J., & Yu, D. E. (2017). Economic inequality and class consciousness. *The Journal of Politics*, 79(3).
 
 - Theocharis, Y., Barbera, P., Fazekas, Z., & Popa, S. A. (2016). A Bad Workman Blames His Tweets? The Consequences of Citizens’ Uncivil Twitter Use When Interacting with Party Candidates. *Journal of Communication*, 66, 1007-1031.
-
-- Wickham, H. (2014). Tidy data. *Journal of Statistical Software*, 59(10), 1-23.
 
 ### Supplerende læsning
 
