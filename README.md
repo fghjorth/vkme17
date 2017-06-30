@@ -23,7 +23,7 @@ Tredje blok, **Politologisk data science** (gang 12-14), introducerer til hvorda
 
 Gang | Tema | Litteratur | Case
 -|----------------------------|---------------|------------
-1  | Introduktion til R | Imai kap 1, Leeper (2016) |
+1  | Introduktion til R | Leeper (2016) |
 2  | R workshop + tidy data | Wickham (2014), Zhang (2017) |
 3  | Regression I: OLS brush-up | AP kap 3 | Newman et al. (2015), Solt et al. (2017)
 4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2016)
@@ -35,9 +35,9 @@ Gang | Tema | Litteratur | Case
 9  | Instrumentvariable | AP kap 4 | Lundborg et al. (2017)
 10 | Difference-in-differences | AP kap 5 | Enos (2016)
 11 | Regressionsdiskontinuitetsdesigns | AP kap 6 | Eggers & Hainmueller (2009)
-12 | 'Big data' og maskinlæring | Harford (2014), Grimmer (2015), Varian (2014), Athey & Imbens (2016) | Theocharis et al. (2016)
+12 | Tekst som data | Grimmer & Stewart (2013), Benoit & Nulty (2016) | Baturo & Mikhaylov (2013)
 13 | Scraping af data fra online-kilder | MRMN kap 9+14 | Hjorth (2016)
-14 | Tekst som data | Grimmer & Stewart (2013), Imai kap 5, Benoit & Nulty (2016) | Baturo & Mikhaylov (2013)
+14 | 'Big data' og maskinlæring | Varian (2014), Montgomery & Olivella (2017) | Theocharis et al. (2016)
 
 <!-- 4  | Regression III: Multileveldata, interaktioner | GH kap 12 | Berkman & Plutzer (2011) -->
 
@@ -76,15 +76,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 ### Artikler
 
-- Athey, S., & Imbens, G. (2016). The State of Applied Econometrics-Causality and Policy Evaluation. *arXiv preprint* arXiv:1607.00699.
-
 - Benoit, K., & Nulty, P. (2016) [Getting Started with quanteda](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html)
 
-- Grimmer, J. (2015). We are all social scientists now: how big data, machine learning, and causal inference work together. *PS: Political Science & Politics*, 48(01), 80-83.
-
 - Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. *Political Analysis*, 21(3), 267-297.
-
-- Harford, T. (2014). Big data: A big mistake?. *Significance*, 11(5), 14-19. Chicago
 
 - Hariri, J. G. (2012). Kausal inferens i statskundskaben. *Politica*, 44(2), 184-201.
 
@@ -126,6 +120,8 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
 
+- Montgomery, J. M., & Olivella, S. (2017). Tree-based models for political science data. *American Journal of Political Science*, forthcoming.
+
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
 - Newman, B. J., Johnston, C. D., & Lown, P. L. (2015). False consciousness or class awareness? Local income inequality, personal economic position, and belief in American meritocracy. *American Journal of Political Science*, 59(2), 326-340.
@@ -140,7 +136,13 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 ### Supplerende læsning
 
+- Athey, S., & Imbens, G. (2016). The State of Applied Econometrics-Causality and Policy Evaluation. *arXiv preprint* arXiv:1607.00699.
+
 - Gelman, A., & Hill, J. (2006). *Data analysis using regression and multilevel/hierarchical models*. Cambridge University Press.
+
+- Grimmer, J. (2015). We are all social scientists now: how big data, machine learning, and causal inference work together. *PS: Political Science & Politics*, 48(01), 80-83.
+
+- Harford, T. (2014). Big data: A big mistake?. *Significance*, 11(5), 14-19. Chicago
 
 - Imai, K. (2017): *Quantitative Social Science: An Introduction*. Princeton University Press.
 
