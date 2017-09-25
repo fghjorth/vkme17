@@ -15,8 +15,6 @@ lw<-ll %>%
   as.data.frame() %>% 
   reshape(.,idvar="valgstedid",timevar="year",direction="wide",sep="_") %>% 
   as_tibble()
-  
-  recast(.,valgstedid~year+variable)
-  
-  select(year,valgstedid,zip,hp_1yr) %>% 
-  spread(year,hp_1yr,sep="_")
+
+#save as RDS
+saveRDS(lw,"../data/04_larsen_wide.rds")
