@@ -1,10 +1,7 @@
 setwd("~/GitHub/vkme17")
 
 library(tidyverse)
-library(plm)
 library(stargazer)
-library(clusterSEs)
-library(rms)
 library(multiwayvcov)
 
 #hent data
