@@ -36,3 +36,5 @@ fe_cvcovses<-fe_cvcov[,2]
 stargazer(pols,fe_lsdv,fe_lsdv,type="text",omit=c("yrfac","vstedfac"),
           se=list(NULL,NULL,fe_cvcovses))
 
+#øvelse: lav en ekstra model med arbejdsløshed som tidsvarierende kovariat
+
