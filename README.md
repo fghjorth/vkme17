@@ -127,9 +127,9 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Hjorth, F. (2016). Intergroup Bias in Parliamentary Rule Enforcement. *Political Research Quarterly*, 69(4), 692-702.
 
-- Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
-
 - Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2017). When Do Citizens Respond Politically to the Local Economy? Evidence from Registry Data on Local Housing Markets. Working paper.
+
+- Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
 
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
