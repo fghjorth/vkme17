@@ -26,8 +26,8 @@ Gang | Tema | Litteratur | Case
 1  | Introduktion til R | Leeper (2016) |
 2  | R workshop + tidy data | Wickham (2014), Zhang (2017) |
 3  | Regression I: OLS brush-up | AP kap 3 | Newman et al. (2015), Solt et al. (2017)
-4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2016)
-5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) |
+4  | Regression II: Paneldata | AGS kap 4 | Larsen et al. (2017)
+5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) | Eckles & Bakshy (2017)
 6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
    | *Efterårsferie* | |
 7  | Eksperimenter I | AP kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
@@ -111,6 +111,8 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 <!-- Dinesen, P. T., & Sønderskov, K. M. (2012). Trust in a time of increasing diversity: On the relationship between ethnic heterogeneity and social trust in Denmark from 1979 until today. *Scandinavian Political Studies*, 35(4), 273-294. -->
 
+- Eckles, D., & Bakshy, E. (2017). Bias and high-dimensional adjustment in observational studies of peer effects. Retrieved from [arxiv.org/abs/1706.04692](http://arxiv.org/abs/1706.04692)
+
 - Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
 
 - Enos, R. D. (2016). What the demolition of public housing teaches us about the impact of racial threat on political behavior. *American Journal of Political Science*, 60(1), 123-142.
@@ -127,11 +129,11 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Lundborg, P., Plug, E., & Rasmussen, A. W. (2017). Can Women Have Children and a Career? IV Evidence from IVF Treatments. *The American Economic Review*.
 
+- Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2017). When Do Citizens Respond Politically to the Local Economy? Evidence from Registry Data on Local Housing Markets. Working paper.
+
 - Nall, C. (2015). The political consequences of spatial policies: How interstate highways facilitated geographic polarization. *The Journal of Politics*, 77(2), 394-406.
 
 - Newman, B. J., Johnston, C. D., & Lown, P. L. (2015). False consciousness or class awareness? Local income inequality, personal economic position, and belief in American meritocracy. *American Journal of Political Science*, 59(2), 326-340.
-
-- Larsen, M. V., Hjorth, F., Dinesen, P. & Sønderskov, K. M. (2016). Housing Bubbles and Support for Incumbents. *Annual Meeting of the American Political Science Association*.
 
 - Solt, F., Hu, Y., Hudson, K., Song, J., & Yu, D. E. (2017). Economic inequality and class consciousness. *The Journal of Politics*, 79(3).
 
