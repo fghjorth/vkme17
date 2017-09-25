@@ -1,0 +1,22 @@
+setwd("~/GitHub/vkme17/scripts")
+
+library(haven)
+library(tidyverse)
+library(reshape2)
+library(data.table)
+
+#import long form data
+ll<-read_dta("../../housing/data/raplidata.dta") %>% 
+  select(year,valgstedid,hp_1yr,incsupport,unemprate) %>% 
+  filter(!is.na(year) & !is.na(valgstedid))
+
+#long to wide
+lw<-ll %>% 
+  as.data.frame() %>% 
+  reshape(.,idvar="valgstedid",timevar="year",direction="wide",sep="_") %>% 
+  as_tibble()
+  
+  recast(.,valgstedid~year+variable)
+  
+  select(year,valgstedid,zip,hp_1yr) %>% 
+  spread(year,hp_1yr,sep="_")
