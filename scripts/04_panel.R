@@ -4,6 +4,10 @@ library(tidyverse)
 library(stargazer)
 library(multiwayvcov)
 
+#eksempel på brug af gather()
+df_wide<-data.frame(unit=c("a","b","c"),yt1=c(1,3,6),yt2=c(2,6,7))
+df_long<-gather(df_wide,year,outcome,yt1:yt2)
+
 #hent data
 lw<-readRDS("data/04_larsen_wide.rds")
 
