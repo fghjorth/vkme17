@@ -8,12 +8,12 @@ library(tidyverse)
 sd <- readRDS("data/03_soltdata.rds") 
 
 #definer modellen
-sd_ols01<-lm(div_hhn~gini_cnty+
+ols<-lm(div_hhn~gini_cnty+
                income_cnty+black_cnty+perc_bush04+pop_cnty+income+educ+age+male+union+emp+partyid+ideo+attend,
              data=sd)
 
 #se på estimaterne
-summary(sd_ols01)
+summary(ols)
 
 #den afhængige er dikotom, så vi kan også fitte en logit
 sd_logit01<-glm(div_hhn~gini_cnty+
