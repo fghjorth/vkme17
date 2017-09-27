@@ -3,6 +3,7 @@ setwd("~/GitHub/vkme17")
 library(tidyverse)
 library(stargazer)
 library(multiwayvcov)
+library(lmtest)
 
 #eksempel på brug af gather()
 df_wide<-data.frame(unit=c("a","b","c"),yt1=c(1,3,6),yt2=c(2,6,7))
