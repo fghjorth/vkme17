@@ -149,6 +149,8 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Harford, T. (2014). Big data: A big mistake?. *Significance*, 11(5), 14-19. Chicago
 
+- Iacus, S.M., King, G., & Porro, G. (2016). [CEM: Software for Coarsened Exact Matching](https://cran.r-project.org/web/packages/cem/vignettes/cem.pdf)
+
 - Imai, K. (2017): *Quantitative Social Science: An Introduction*. Princeton University Press.
 
 - Kleinberg, J., Ludwig, J., Mullainathan, S. (2016). [A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning). *Harvard Business Review*.
