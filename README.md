@@ -15,7 +15,7 @@ Seminaret er en obligatorisk del af specialiseringen *Politisk Adfærd og anvend
 
 Seminaret dækker videregående kvantitative metoder, der anvendes i studiet af politisk adfærd. Det er tilrettelagt til at spille tæt sammen med *Politisk adfærd*, substansfaget i specialiseringen *Politisk Adfærd og anvendt videregående kvantitative metode*. Seminaret vil således inddrage tekster og temaer *Politisk adfærd*. Vi tager fat i centrale studier af politisk adfærd og spørger: hvordan er forfatteren nået frem til sit resultat? Kan vi genskabe resultatet? Og hvor følsomt er det over for andre metodiske valg? Vi lægger også stor vægt på hvordan studerende kan bruge metoderne til selv at besvare politologiske spørgsmål.
 
-Seminaret er struktureret omkring tre tematiske blokke. Første blok, **Brush-up** (gang 1-4), samler op på centrale elementer fra Metode 2, herunder multivariat (OLS og logistisk) regressionsanalyse. Blokken introducerer også metoder til at håndtere multilevel-data ved hjælp af fixed effects og random effects-modeller.
+Seminaret er struktureret omkring tre tematiske blokke. Første blok, **Brush-up** (gang 1-4), samler op på centrale elementer fra Metode 2, herunder multivariat (OLS og logistisk) regressionsanalyse. Blokken introducerer også metoder til at håndtere paneldata ved hjælp af fixed effects modeller.
 
 Anden blok, **Kausal inferens** (gang 5-11) handler om at undersøge om ét fænomen påvirker et andet – og hvor stor en eventuel påvirkning er. I de senere år har man inden for samfundsvidenskaben oplevet en sand ‘credibility revolution’ med et stadig stigende fokus på, hvordan man kan udtale sig om kausale effekter. I tråd med denne udvikling er formålet med blokken at introducere de studerende til forskellige forskningsdesigns og statistiske metoder til at drage kausale slutninger. Der vil især blive lagt stor vægt på designs, da et veldesignet studie ofte mindsker behovet for at anvende avancerede statistiske teknikker.
 
@@ -194,7 +194,11 @@ Selvbetjeningen på KUnet.
 
 Faget udgør 7,5 ECTS.
 
-Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. Den endelige seminaropgave bedømmes med en karakter på syvtrinsskalaen uden ekstern censur :cold_sweat:.
+Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. For inspiration mht. data, se denne glimrende (oversigt over politologiske datasæt)[https://github.com/erikgahner/PolData].
+
+Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. 
+
+Den endelige seminaropgave bedømmes med en karakter på syvtrinsskalaen uden ekstern censur.
 
 ## Kriterier for bedømmelse
 
