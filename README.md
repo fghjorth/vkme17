@@ -194,7 +194,7 @@ Selvbetjeningen på KUnet.
 
 Faget udgør 7,5 ECTS.
 
-Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. For inspiration mht. data, se denne glimrende (oversigt over politologiske datasæt)[https://github.com/erikgahner/PolData].
+Eksamen består af en seminaropgave, som skal afleveres ved semestrets afslutning. Opgaven består af en selvstændig kvantitativ analyse af data, der trækker på metoder fra mindst to af fagets tre blokke. Opgaven kan analysere en original problemstilling eller have form af et replikationsstudie med afsæt i en eksisterende studie. For inspiration mht. data, se denne glimrende [oversigt over politologiske datasæt](https://github.com/erikgahner/PolData).
 
 Ca. halvvejs i semesteret skal studerende aflevere et oplæg til seminaropgave, som skal godkendes. 
 
