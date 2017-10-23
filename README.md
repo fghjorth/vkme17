@@ -30,7 +30,7 @@ Gang | Tema | Litteratur | Case
 5  | Introduktion til kausal inferens | Hariri (2012), Samii (2016) | Eckles & Bakshy (2017)
 6  | Matching | Justesen & Klemmensen (2014) | Nall (2015)
    | *Efterårsferie* | |
-7  | Eksperimenter I | AP kap 1, GG kap 1+2 | Gerber, Green & Larimer (2008)
+7  | Eksperimenter I | AP kap 1+2, GG kap 1+2 | Gerber, Green & Larimer (2008)
 8  | Eksperimenter II | GG kap 3+4+5 | Gerber & Green (2000)
 9  | Instrumentvariable | AP kap 4 | Lundborg et al. (2017)
 10 | Difference-in-differences | AP kap 5 | Enos (2016)
