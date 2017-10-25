@@ -32,10 +32,10 @@ df<-arrange(df,id)
 ### Gerber, Green & Larimer (2008)
 
 #indlæs data
-ggl<-read_csv("data/7_ggl.csv")
+ggl<-read_csv("data/07_ggl.csv")
 
 #kig på data
-glimpse(ggl)
+str(ggl)
 
 #regression på turnout af exp treatment
 ols1<-lm(primary2006~messages,data=ggl)
