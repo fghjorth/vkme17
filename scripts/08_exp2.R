@@ -1,7 +1,10 @@
 setwd("~/GitHub/vkme17")
 
 require(tidyverse)
+require(broom)
 require(randomizr)
+
+### BLOCKING
 
 #simuler data hvor blocking er meget relevant
 #eksempel: vi treater folk med HCA-eventyr og tester holdning til HCA (y), men et subset af samplen er fynboere med markant højere y
@@ -24,14 +27,16 @@ table(simdat$fynbo,simdat$simpletreat)
 summary(lm(ypost_simple~simpletreat+fynbo,data=simdat))
 summary(lm(ypost_block~blocktreat+fynbo,data=simdat))
 
+### NONCOMPLIANCE
+
 #indlæs data
-ggd<-read_csv("data/8_gg.csv")
+ggd<-read_csv("data/08_gg.csv")
 
 #overblik over data
 glimpse(ggd)
 
 #begræns data til one-person households i kontrol eller canvas
-ggd<-subset(ggd,onetreat==1 & mailings==0 & phongotv==0 & persons==1)
+ggd<-filter(ggd,onetreat==1 & mailings==0 & phongotv==0 & persons==1)
 
 #ift. bogen:
 # VOTED hedder her v98
