@@ -22,6 +22,7 @@ simdat<-simdat %>%
 
 #tjek at der er skævhed i assignment
 table(simdat$fynbo,simdat$simpletreat)
+table(simdat$fynbo,simdat$blocktreat)
 
 #se på modeller
 summary(lm(ypost_simple~simpletreat+fynbo,data=simdat))
