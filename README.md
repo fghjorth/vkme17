@@ -7,7 +7,7 @@ Engelsk: *Advanced quantitative methods in the study of political behavior*
 
 ## Underviser
 
-Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., postdoc ved [IfS](hrrp://polsci.ku.dk).
+Faget undervises af [Frederik Hjorth](http://fghjorth.github.io), Ph.D., adjunkt ved [IfS](hrrp://polsci.ku.dk).
 
 ## Kursusindhold
 
@@ -33,7 +33,7 @@ Gang | Tema | Litteratur | Case
 7  | Eksperimenter I | AP kap 1+2, GG kap 1+2 | Gerber, Green & Larimer (2008)
 8  | Eksperimenter II | GG kap 3+4+5 | Gerber & Green (2000)
 9  | Instrumentvariable | AP kap 4 | Lundborg et al. (2017)
-10 | Difference-in-differences | AP kap 5 | Enos (2016)
+10 | Difference-in-differences | AP kap 5 | 
 11 | Regressionsdiskontinuitetsdesigns | AP kap 6 | Eggers & Hainmueller (2009)
 12 | Tekst som data | Grimmer & Stewart (2013), Benoit & Nulty (2016) | Baturo & Mikhaylov (2013)
 13 | Scraping af data fra online-kilder | MRMN kap 9+14 | Hjorth (2016)
@@ -115,7 +115,7 @@ Der lægges vægt på, at de studerende opnår kompetencer til at forstå, udfø
 
 - Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in postwar British politics. *American Political Science Review*, 103(04), 513-533.
 
-- Enos, R. D. (2016). What the demolition of public housing teaches us about the impact of racial threat on political behavior. *American Journal of Political Science*, 60(1), 123-142.
+<!-- - Enos, R. D. (2016). What the demolition of public housing teaches us about the impact of racial threat on political behavior. *American Journal of Political Science*, 60(1), 123-142. -->
 
 - Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls, and direct mail on voter turnout: A field experiment. American Political Science Review, 94(03), 653-663.
 
