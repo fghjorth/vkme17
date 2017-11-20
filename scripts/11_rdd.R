@@ -1,12 +1,10 @@
-setwd("~/GitHub/vkme16")
+setwd("~/GitHub/vkme17")
 
-require(readr)
-require(dplyr)
-require(rdd) #RD designs
-require(ggplot2) #plots
+require(tidyverse)
+require(rdd)
 
 #indlæs data
-eh<-read_csv("data/10_eh.csv")
+eh<-read_csv("data/11_eh.csv")
 
 #overblik over data
 glimpse(eh)
@@ -16,8 +14,14 @@ glimpse(eh)
 # margin: valgmargen
 # party: parti
 
-#estimater med 
+#estimater med alm. ols
+olsrd_tory<-lm(ln.net~margin,data=subset(eh,party=="tory" & margin >= -.15 & margin <= .15))
+summary(olsrd_tory)
 
+olsrd_labour<-lm(ln.net~margin,data=subset(eh,party=="labour" & margin >= -.15 & margin <= .15))
+summary(olsrd_labour)
+
+#estimater med rdd
 rd_tory<-RDestimate(ln.net~margin,data=subset(eh,party=="tory"),bw=.15,kernel="rectangular")
 summary(rd_tory)
 
