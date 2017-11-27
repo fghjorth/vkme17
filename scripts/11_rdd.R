@@ -15,10 +15,10 @@ glimpse(eh)
 # party: parti
 
 #estimater med alm. ols
-olsrd_tory<-lm(ln.net~margin,data=subset(eh,party=="tory" & margin >= -.15 & margin <= .15))
+olsrd_tory<-lm(ln.net~margin+I(margin>0),data=subset(eh,party=="tory" & margin >= -.15 & margin <= .15))
 summary(olsrd_tory)
 
-olsrd_labour<-lm(ln.net~margin,data=subset(eh,party=="labour" & margin >= -.15 & margin <= .15))
+olsrd_labour<-lm(ln.net~margin+I(margin>0),data=subset(eh,party=="labour" & margin >= -.15 & margin <= .15))
 summary(olsrd_labour)
 
 #estimater med rdd
