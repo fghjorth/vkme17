@@ -6,7 +6,7 @@ require(rpart.plot) #plot pænere regressionstræer
 require(glmnet) #lasso
 
 #hent det store datasæt fra midterm-opgaven
-eb<-readRDS("data/14_eurobarometer.rds") #rds er et kompakt format til at gemme r-objekter
+eb<-readRDS("data/14_eurobarometer.rds") 
 
 #skal først lave nyt data uden NA's
 eb2<-eb %>% 
